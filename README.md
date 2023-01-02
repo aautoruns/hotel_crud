@@ -55,18 +55,6 @@
             <ol class="list-group list-group-numbered mt-3">
                 <li class="list-group-item d-flex justify-content-between align-items-start">
                     <div class="ms-2 me-auto">
-                        <div class="fw-bold">Tamu / Edit</div>
-                        Duplicate entry '1' for key 'PRIMARY'
-                    </div>
-                </li>
-                <li class="list-group-item d-flex justify-content-between align-items-start">
-                    <div class="ms-2 me-auto">
-                        <div class="fw-bold">Tamu / Tambah</div>
-                        Tidak bisa disubmit
-                    </div>
-                </li>
-                <li class="list-group-item d-flex justify-content-between align-items-start">
-                    <div class="ms-2 me-auto">
                         <div class="fw-bold">Checkin / Edit</div>
                         Tidak bisa disubmit, idcheckin sudah terdaftar.
                     </div>
